@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Read</title>
 </head>
 <body>
-	<h2>CRUD Practica caleb</h2>
-	<ul>
-		<li><a href="create.jsp">Create Carnivorous</a></li>
-	</ul>
+	<h1>Read</h1>
+	
+	<p><a href="readGeneral.jsp">Consulta General</a></p>
+	<p><a href="readIndividual.jsp">Consulta Individual</a></p>
 </body>
 </html>
